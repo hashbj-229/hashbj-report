@@ -16,6 +16,7 @@ Des audits récents révèlent que, malgré ces initiatives, certaines vulnérab
 La cryptographie se révèle un outil indispensable pour soutenir ces efforts, en garantissant les piliers de la sécurité numérique : la confidentialité, l'intégrité et l'authenticité des informations. L’investissement dans les solutions cryptographiques, telles que les infrastructures à clé publique (PKI), ainsi que dans le renforcement des compétences humaines, est crucial pour la résilience des IIC et la souveraineté numérique du pays.
 
 1. Introduction : L'Enjeu de la Confiance Numérique pour les Infrastructures Critiques du Bénin
+
 1.1 Contexte de la transformation numérique
 
 Le Bénin poursuit une transformation numérique stratégique, visant à renforcer son rôle comme plateforme régionale de services digitaux. Le Programme d'Action du Gouvernement (PAG) et la Stratégie Nationale de Sécurité Numérique (SNSN) illustrent la volonté de l’État de favoriser la dématérialisation et l’essor d’une économie numérique florissante.
@@ -33,6 +34,7 @@ Ces infrastructures, historiquement isolées, sont désormais interconnectées. 
 Le rapport examine le rôle de la cryptographie dans la sécurisation des IIC. Après une présentation du cadre national, il détaille les principes techniques de la cryptographie, les vulnérabilités constatées, les solutions existantes et les perspectives régionales et post-quantiques, pour aboutir à des recommandations constructives.
 
 2. Le Cadre National de Protection des Infrastructures d'Information Critiques (IIC)
+
 2.1 Cartographie et définition des IIC
 
 L’État béninois a mis en place des instruments de gouvernance clairs. Le décret n° 2023-060 définit la Politique de Protection des Infrastructures d'Information Critiques (PPIIC) et les procédures pour la désignation des Opérateurs d’Infrastructure d’Information Critiques (OIIC). Le Cadre de Classification des Infrastructures d'Information (CCII) permet de prioriser la protection selon l’impact sur la sécurité nationale et l’économie.
@@ -56,6 +58,7 @@ Authenticité et Non-répudiation : Réalisées grâce aux signatures numérique
 La cryptographie s’applique aux données en transit et au repos, y compris dans le cloud, et constitue la base pour l’implémentation d’une PKI nationale sécurisée.
 
 4. Analyse de l'État de la Cybersécurité au Bénin
+
 4.1 Vulnérabilités et incidents (Rapport ASIN)
 
 Le rapport ASIN recense 878 vulnérabilités (23 % critiques), avec des incidents tels que failles d’accès, fuites de mots de passe (832 cas). Ces constats doivent être vus comme des axes d’amélioration, avec un potentiel pour l’adoption accrue de solutions cryptographiques robustes.
@@ -69,6 +72,7 @@ Les défis identifiés (sensibilisation, expertise, gestion des incidents) sont 
 Les budgets alloués (29 milliards FCFA pour le numérique, fonds APDP) montrent un engagement significatif. Les audits soulignent des besoins d’optimisation, offrant des pistes de renforcement pour la sécurité cryptographique.
 
 5. Cryptographie à l’œuvre : Cas concrets
+
 5.1 Services publics et financiers
 
 La cryptographie s’impose déjà comme une composante essentielle des services publics et financiers au Bénin. Les systèmes d’identification numérique, pierre angulaire de la dématérialisation des services administratifs, reposent sur des mécanismes cryptographiques robustes permettant d’assurer l’authentification des citoyens et la protection de leurs données personnelles. Dans le secteur financier, les transactions par mobile money, qui représentent plusieurs milliers de milliards de FCFA chaque année, s’appuient sur le protocole TLS/SSL afin de sécuriser les échanges entre clients, opérateurs et banques.
@@ -80,6 +84,7 @@ Les systèmes SCADA, utilisés dans la supervision et le contrôle des infrastru
 De plus, l’intégrité des mises à jour logicielles est assurée grâce aux signatures numériques, empêchant l’injection de codes malveillants pouvant provoquer des pannes massives. En contribuant directement à la stabilité économique et sociale, la cryptographie constitue donc une garantie de résilience pour les systèmes industriels stratégiques du pays.
 
 6. Perspectives régionales et tendances
+
 6.1 Leçons du Ghana
 
 Le Ghana constitue un exemple notable en Afrique de l’Ouest pour la mise en place d’une gouvernance solide en cybersécurité. À travers la Cyber Security Authority (CSA), ce pays a instauré un modèle institutionnel robuste et intégré, soutenu par une loi spécifique (Cybersecurity Act, 2020). Cette approche a permis au Ghana de consolider son classement parmi les meilleurs pays africains en matière de cybersécurité selon l’Union Internationale des Télécommunications (UIT).
@@ -98,6 +103,7 @@ Pour le Bénin, cette anticipation passe par la préparation d’une transition 
 Ainsi, planifier dès maintenant la crypto-agilité dans les projets numériques nationaux est une mesure stratégique afin de garantir que les systèmes mis en place aujourd’hui resteront sécurisés à long terme.
 
 8. Recommandations
+   
 8.1 Cadre juridique et gouvernance
 
 Le renforcement du cadre juridique demeure une priorité. La poursuite de la mise en œuvre de la Politique de Protection des Infrastructures d’Information Critiques (PPIIC) et l’élargissement des partenariats public-privé permettront d’accompagner efficacement les opérateurs d’infrastructures critiques.
