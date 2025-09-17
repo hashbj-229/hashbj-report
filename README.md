@@ -2,7 +2,7 @@
 *Rédigé par : Welman GBAGUIDI, Hector SEDO, Destin ATCHAHOUE*
 ## Remerciements
 
-Nous tenons à exprimer notre profonde gratitude à Son Excellence le Président de la République, au Ministre du Numérique, au Directeur Général de l’ASIN, ainsi qu’aux équipes de l’ANSI et du CNIN, pour leur engagement continu dans la promotion de la cybersécurité et la protection des infrastructures critiques du Bénin. Leur vision et les efforts consentis constituent une base solide sur laquelle ce rapport s’appuie pour analyser les enjeux et proposer des perspectives constructives pour l’avenir numérique du pays.
+Nous tenons à exprimer notre profonde gratitude à Son Excellence monsieur Patrice Talon, le Président de la République du Bénin, à madame, Aurelie I. ADAM SOULE ZOUMAROU Ministre du Numérique , au Directeur Général de l’ASIN, ainsi qu’aux équipes de l’ANSI et du CNIN, pour leur engagement continu dans la promotion de la cybersécurité et la protection des infrastructures critiques du Bénin. Leur vision et les efforts consentis constituent une base solide sur laquelle ce rapport s’appuie pour analyser les enjeux et proposer des perspectives constructives pour l’avenir numérique du pays.
 
 ## Résumé Exécutif
 
